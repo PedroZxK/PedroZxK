@@ -11,7 +11,7 @@
 🤝 Aberto a oportunidades de aprendizado e colaborações
 
 <div>
-🔗 Conecte-se comigo: <a href="https://www.linkedin.com/in/pedro-santos-74480726b" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+🔗 Conecte-se comigo: <a href="https://www.linkedin.com/in/pedro-santos-74480726b" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" style="display: flex, justify-content: center, align-itens: center"></a>   
 </div>
 
 📫 Entre em contato: [pedrogabrielxx268@gmail.com]
