@@ -10,14 +10,11 @@
 🌱 Sempre buscando novos desafios para aprimorar minhas habilidades
 🤝 Aberto a oportunidades de aprendizado e colaborações
 
-🔗 Conecte-se comigo:
-[[LinkedIn](https://www.linkedin.com/in/pedro-santos-74480726b/)]
+<div>
+🔗 Conecte-se comigo: <a href="https://www.linkedin.com/in/pedro-santos-74480726b" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
 📫 Entre em contato: [pedrogabrielxx268@gmail.com]
-
-<div>
-📫 Entre em contato: [pedrogabrielxx268@gmail.com] <a href="https://www.linkedin.com/in/pedro-santos-74480726b" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
 
 <div>
     <a href="https://github.com/PedroZxK">
