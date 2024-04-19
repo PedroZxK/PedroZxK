@@ -14,3 +14,9 @@
 [[LinkedIn](https://www.linkedin.com/in/pedro-santos-74480726b/)]
 
 📫 Entre em contato: [pedrogabrielxx268@gmail.com]
+
+<div>
+<a href="https://github.com/PedroZxK">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?Pedro Santos&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?Pedro Santos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
