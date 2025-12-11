@@ -59,9 +59,19 @@ Minhas principais habilidades e tecnologias com as quais tenho trabalhado e estu
 
 ---
 
-## 🐍 Minhas Contribuições (GitHub Snake)
+## 📊 Estatísticas Detalhadas
 
-Veja meu padrão de atividades no GitHub!
+Minhas contribuições, linguagens mais usadas e atividade geral:
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/PedroZxK/PedroZxK/master/profile-metrics.svg" alt="Infográfico de Métricas do GitHub" />
+    <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroZxK&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Sequência de Contribuições de Pedro"/>
+</div>
+
+---
+
+## 🐍 Padrão de Atividade (GitHub Snake)
 
 <div align="center">
     <img src="https://github.com/PedroZxK/PedroZxK/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
