@@ -84,13 +84,13 @@ Minhas contribuições, linguagens mais usadas e atividade geral:
 Sinta-se à vontade para entrar em contato para projetos, dúvidas ou apenas para um bate-papo!
 
 <div align="center">
-    <a href="<INSIRA_SEU_LINK_DO_LINKEDIN_AQUI>">
+    <a href="https://www.linkedin.com/in/pedro-santos-74480726b/">
         <img loading="lazy" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="mailto:pedrogabrielxx268@gmail.com">
         <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
-    <a href="https://wa.me/55<SEU_DDD><SEU_NUMERO>">
+    <a href="https://wa.me/5512991149748">
         <img loading="lazy" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
     </a>
 </div>
