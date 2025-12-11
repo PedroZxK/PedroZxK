@@ -1,7 +1,5 @@
 name: Generate Snake Animation
 
-# Configura o gatilho para rodar diariamente à meia-noite (cron: "0 0 * * *")
-# E permite rodar manualmente via "workflow_dispatch"
 on:
   schedule:
     - cron: "0 0 * * *"
@@ -11,18 +9,14 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # Passo 1: Faz o checkout do código do repositório
+      # Passo 1: Checkout do repositório
       - uses: actions/checkout@v4
 
       # Passo 2: Roda a Action do GitHub Snake
       - uses: Platane/snk@v3
-        id: snake-svg
         with:
-          # Seu nome de usuário do GitHub
           github_user_name: PedroZxK
-          # Define o tema escuro para combinar com o dracula
-          palette: github-dark
-          # Define o tipo e o caminho de saída do arquivo
+          # O arquivo de saída (saída do snake)
           outputs: dist/github-contribution-grid-snake.svg
         env:
           # Usa o token padrão de segurança do GitHub
