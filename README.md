@@ -61,11 +61,16 @@ Minhas principais habilidades e tecnologias com as quais tenho trabalhado e estu
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center"> 
+<div align="center">
     <a href="https://github.com/PedroZxK"> 
-        <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroZxK&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Pedro"/> 
-        <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroZxK&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas"/> 
-    </a> 
+        <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroZxK&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_title=true" alt="Estatísticas do GitHub de Pedro"/> 
+    </a>
+    <a href="https://github.com/PedroZxK">
+        <img loading="lazy" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=PedroZxK&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Sequência de Contribuições de Pedro"/>
+    </a>
+    <a href="https://github.com/PedroZxK">
+        <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroZxK&layout=compact&langs_count=7&theme=dracula&hide_title=true" alt="Linguagens mais usadas"/>
+    </a>
 </div>
 
 ---
