@@ -1,8 +1,8 @@
 <h1 align="center">👋 Olá, eu sou Pedro Gabriel Moreira dos Santos!</h1>
 <p align="center">
-  <em>Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Full-Stack em Formação | Entusiasta de Cybersegurança</em>
+  <em>Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Full-Stack em Formação | Entusiasta de Cybersegurança</em><br>
   <em>"让灵魂闪耀~ 
-      活好每一天，如同最后一天！":)</em>
+      活好每一天，如同最后一天！" :)</em>
 </p>
 
 ---
